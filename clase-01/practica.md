@@ -71,4 +71,4 @@ Captura de la suite en Qase con tus casos: `evidencias/qase-suite-casos.png`
 | Skill | ___N/A no use una especifica___ |
 
 ## 8. Entrega
-- Link de tu repo (pegalo también en el Telegram): ___https://github.com/tu-usuario/minimoda-test/edit/main/clase-01/practica.md___
+- Link de tu repo (pegalo también en el Telegram): ___https://github.com/rosalpanabelysqa-spec/minimoda-test___
