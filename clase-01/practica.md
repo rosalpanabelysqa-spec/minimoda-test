@@ -45,14 +45,14 @@ Captura de la suite en Qase con tus casos: `evidencias/qase-suite-casos.png`
 
 ### Caso 1: ___Registro: Alta exitosa con datos válidos___
 - Precondiciones: ___Estar en la página de registro de MiniModa___
-- Pasos: ___Ingresar un nombre válido en el campo Nombre. Ingresar un correo electrónico válido (ana.prueba@example.com).Ingresar una contraseña válida que cumpla el mínimo de 8 caracteres. Repetir la misma contraseña en el campo Confirmar contraseña. Ingresar una edad válida dentro del rango permitido (ej: 15). Seleccionar un país del selector (ej: Argentina). Marcar la casilla de Acepto los términos y condiciones. Hacer clic en "Crear cuenta"___
+- Pasos: ___Ingresar un nombre válido en el campo Nombre. Ingresar un correo electrónico válido (ana.prueba@example.com).Ingresar una contraseña válida que cumpla el mínimo de 8 caracteres (ej. clave123). Repetir la misma contraseña en el campo Confirmar contraseña. Ingresar una edad válida dentro del rango permitido (ej: 15). Seleccionar un país del selector (ej: Argentina). Marcar la casilla de Acepto los términos y condiciones. Hacer clic en "Crear cuenta"___
 - Resultado esperado: ___El sistema muestra el mensaje de éxito y un enlace para ver el correo en la bandeja.___
 - Evidencia: `evidencias/qase-MM-4-registro-alta-exitosa.png`
 
 ### Caso 2: ___Registro: Validar contraseña menor al mínimo permitido___
 - Precondiciones: ___Estar en la página de registro de MiniModa___
-- Pasos: ___Completar los campos obligatorios con datos válidos. Ingresar una contraseña de 7 caracteres (por debajo del mínimo de 8). Confirmar la misma contraseña de 7 caracteres. Intentar enviar el formulario haciendo clic en "Crear cuenta".___
-- Resultado esperado: ___Bloqueo del registro y mensaje de que se requiere un mínimo de 8 caracteres.___
+- Pasos: ___Completar los campos obligatorios con datos válidos. Ingresar una contraseña de 7 caracteres (ej. "clave12"). Confirmar la misma contraseña de 7 caracteres. Intentar enviar el formulario haciendo clic en "Crear cuenta".___
+- Resultado esperado: ___la contraseña debe tener al menos 8 caracteres.___
 - Evidencia: `evidencias/qase-MM-5-registro-password-7.png`
 
 ### Caso 3: ___Registro: Validar edad menor al límite permitido___
