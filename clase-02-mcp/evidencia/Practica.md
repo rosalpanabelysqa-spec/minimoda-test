@@ -29,7 +29,7 @@ Se ejecutó el flujo con Playwright y se comprobaron correctamente los siguiente
 
 ## Evidencias
 
-- [Registro de ejecución y llamadas de Playwright](evidencia-minimoda-playwright.md)
+- https://github.com/rosalpanabelysqa-spec/minimoda-test/blob/main/clase-02-mcp/evidencia/01-tienda.png
 - [Captura del producto y su stock](evidencia-minimoda-producto.png)
 - [Captura del carrito](evidencia-minimoda-carrito.png)
 
