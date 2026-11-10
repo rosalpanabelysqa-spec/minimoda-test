@@ -17,6 +17,6 @@
 ## Capturas
 
 - https://github.com/rosalpanabelysqa-spec/minimoda-test/blob/main/clase-02-mcp/evidencia/01-tienda.png
-- [Carrito: producto, cantidad y total](./evidencia-minimoda-carrito.png)
+- https://github.com/rosalpanabelysqa-spec/minimoda-test/blob/main/clase-02-mcp/evidencia/02-carrito.png
 
 Las llamadas Playwright citadas fueron realizadas durante esta ejecución; las comprobaciones se basan en los snapshots de accesibilidad obtenidos después de cada navegación y acción. El sitio indica que es una tienda de demostración con datos ficticios.
