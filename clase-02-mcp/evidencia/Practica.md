@@ -30,7 +30,7 @@ Se ejecutó el flujo con Playwright y se comprobaron correctamente los siguiente
 ## Evidencias
 
 - https://github.com/rosalpanabelysqa-spec/minimoda-test/blob/main/clase-02-mcp/evidencia/01-tienda.png
-- [Captura del producto y su stock](evidencia-minimoda-producto.png)
+- https://github.com/rosalpanabelysqa-spec/minimoda-test/blob/main/clase-02-mcp/evidencia/02-carrito.png
 - [Captura del carrito](evidencia-minimoda-carrito.png)
 
 ## Resultado final
