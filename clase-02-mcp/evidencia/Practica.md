@@ -34,6 +34,7 @@ Se ejecutó el flujo con Playwright y se comprobaron correctamente los siguiente
 - https://github.com/rosalpanabelysqa-spec/minimoda-test/blob/main/clase-02-mcp/casos/agregar-al-carrito-un-producto-con-stock-en-minimoda-c2dd980e.md
 - https://github.com/rosalpanabelysqa-spec/minimoda-test/blob/main/clase-02-mcp/casos/impedir-agregar-mas-unidades-que-stock-en-minimoda-cp-02.md
 - https://github.com/rosalpanabelysqa-spec/minimoda-test/blob/main/clase-02-mcp/CAPACIDADES.md
+- https://github.com/rosalpanabelysqa-spec/minimoda-test/blob/main/clase-02-mcp/evidencia/evidencia-minimoda-playwright.md
 
 ## Resultado final
 
